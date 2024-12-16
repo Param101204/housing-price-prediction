@@ -1,1 +1,2 @@
-# housing-price-prediction
+# Housing Price Prediction using ML
+The housing price prediction project focuses on analyzing and predicting housing prices using historical data and the Housing Price Index (HPI) provided by U.S. government sources. Through exploratory data analysis (EDA), various factors influencing housing prices, such as location, property features, and economic conditions, are examined. The project employs machine learning techniques to build predictive models that estimate housing prices, aiming to uncover trends and patterns that can guide real estate decisions. The goal is to gain insights from the data, assess the factors driving price changes, and develop accurate models for future price predictions.
